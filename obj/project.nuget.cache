@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZkC0U7rU50NfEBOa6H67ht8+pNlqTy/cUW+pbKoykn64RXlGJB/l5XhqnumKXuDXayPaev06QmL9qp/JK4Fyg==",
+  "dgSpecHash": "4jBwwqtyRUwmB8MChpkgqrRLnuWKClEkq/mv10LB39DjoAAvM+dcRTkYflWXidm26b6MqlMCp9gypLBqr5pzBA==",
   "success": true,
-  "projectFilePath": "D:\\THANH NHAN\\Azure-DevOps\\azure-devops-api\\azure-devops-api.csproj",
+  "projectFilePath": "D:\\THANH NHAN\\Azure-DevOps\\Azure-DevOps\\azure-devops-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hangu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\hangu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

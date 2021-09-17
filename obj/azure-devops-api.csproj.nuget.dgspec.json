@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\THANH NHAN\\Azure-DevOps\\azure-devops-api\\azure-devops-api.csproj": {}
+    "D:\\THANH NHAN\\Azure-DevOps\\Azure-DevOps\\azure-devops-api.csproj": {}
   },
   "projects": {
-    "D:\\THANH NHAN\\Azure-DevOps\\azure-devops-api\\azure-devops-api.csproj": {
+    "D:\\THANH NHAN\\Azure-DevOps\\Azure-DevOps\\azure-devops-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\THANH NHAN\\Azure-DevOps\\azure-devops-api\\azure-devops-api.csproj",
+        "projectUniqueName": "D:\\THANH NHAN\\Azure-DevOps\\Azure-DevOps\\azure-devops-api.csproj",
         "projectName": "azure-devops-api",
-        "projectPath": "D:\\THANH NHAN\\Azure-DevOps\\azure-devops-api\\azure-devops-api.csproj",
+        "projectPath": "D:\\THANH NHAN\\Azure-DevOps\\Azure-DevOps\\azure-devops-api.csproj",
         "packagesPath": "C:\\Users\\hangu\\.nuget\\packages\\",
-        "outputPath": "D:\\THANH NHAN\\Azure-DevOps\\azure-devops-api\\obj\\",
+        "outputPath": "D:\\THANH NHAN\\Azure-DevOps\\Azure-DevOps\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hangu\\AppData\\Roaming\\NuGet\\NuGet.Config",
