@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZkC0U7rU50NfEBOa6H67ht8+pNlqTy/cUW+pbKoykn64RXlGJB/l5XhqnumKXuDXayPaev06QmL9qp/JK4Fyg==",
+  "success": true,
+  "projectFilePath": "D:\\THANH NHAN\\Azure-DevOps\\azure-devops-api\\azure-devops-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hangu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hangu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hangu\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\hangu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\hangu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\hangu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
